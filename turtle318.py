@@ -6,7 +6,6 @@ kaz.color('blue')
 kaz.pensize(6)
 kaz.shape('turtle')
 
-
 kaz.forward(100)
 kaz.left(90)
 
