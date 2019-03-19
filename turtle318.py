@@ -12,7 +12,7 @@ kaz.left(90)
 kaz.forward(100)
 kaz.left(90)
 kaz.forward(100)
-
+kaz.up(100)
 
 
 turtle.done()
