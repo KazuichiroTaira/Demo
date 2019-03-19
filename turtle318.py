@@ -11,7 +11,6 @@ kaz.left(90)
 
 kaz.penup()
 kaz.forward(100)
-
 kaz.right(90)
 kaz.pendown()
 
