@@ -10,7 +10,9 @@ kaz.shape('turtle')
 kaz.forward(100)
 kaz.left(90)
 kaz.forward(100)
-kaz.right(90)
+kaz.left(90)
+kaz.forward(100)
+
 
 
 turtle.done()
