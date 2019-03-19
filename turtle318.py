@@ -3,7 +3,7 @@ import turtle
 kaz = turtle.Turtle()
 
 kaz.color('blue')
-kaz.pensize(7.7)
+kaz.pensize(6)
 kaz.shape('turtle')
 
 
